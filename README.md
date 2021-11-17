@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bonot9434/bonot9434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>プロフィール</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonot9434&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonot9434&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
