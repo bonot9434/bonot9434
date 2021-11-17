@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h2>プロフィール</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonot9434&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonot9434&layout=compact&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonot9434&layout=compact&langs_count=8&theme=monokai)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bonot9434&rank=A,AA,AAA&theme=monokai)](https://github.com/bonot9434/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=bonot9434&rank=A,AA,AAA&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bonot9434&theme=monokai)
